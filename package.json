@@ -1,0 +1,18 @@
+{
+  "name": "ss12-syntax",
+  "theme": "syntax",
+  "version": "0.1.1",
+"description": "เว็บลอตเตอรี่ออนไลน์✔️ ❤️ ♕ เว็บหวยออนไลน์ มีหวยให้เล่นครบทุกชนิด ตลอด 24 ชั่วโมง",
+"keywords": [
+"เว็บลอตเตอรี่ออนไลน์",
+"วิธีการแทงหวยในเว็บ",
+"lottovip support",
+"melotto เข้าสู่ระบบ",
+"หวย lottovip.com"
+],
+  "repository": "https://github.com/setteebet/ss12-syntax.git",
+  "license": "MIT",
+  "engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
